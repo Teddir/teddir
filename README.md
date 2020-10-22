@@ -5,7 +5,7 @@
 <div align="right">
 
 
-[![ViewCount](https://views.whatilearened.today/views/github/Teddir/ismlhbb.svg?cache=remove)(#)
+[![ViewCount](https://views.whatilearened.today/views/github/Teddir/ismlhbb.svg?cache=remove)](#)
 
 </div>
 <div>
