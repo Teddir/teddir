@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 
@@ -20,7 +19,6 @@ Hi there, welcome to my Github!<img src="https://github.com/ABSphreak/ABSphreak/
 </div>  
 
 <div>
-  **📫 Reach me at:**<br>
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=https://mail.google.com/mail/u/0/#inbox)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fismlhbb)](https://twitter.com/teddiaja_)
