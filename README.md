@@ -36,7 +36,9 @@
 **Stats**  
 
   ![github stats](https://github-readme-stats.vercel.app/api?username=Teddir&theme=dark&show_icons=true)
-  [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddir&theme=dark&hide=html)](https://github.com/Teddir?tab=follow)[![Teddi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imT&layout=compact&theme=dark)](https://github.com/Teddir?tab=follow)
+  <br>
+    [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddir&theme=dark&hide=html)](https://github.com/Teddir?tab=follow)
+  [![Teddi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imT&layout=compact&theme=dark)](https://github.com/Teddir?tab=follow)
 
 
 <br>
