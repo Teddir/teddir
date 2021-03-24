@@ -1,24 +1,12 @@
-
-
-
 <div align="right">
-
 
 [![ViewCount](https://views.whatilearened.today/views/github/Teddir/ismlhbb.svg?cache=remove)](#)
 
 </div>
-<div>
-Hi there, welcome to my Github!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-</div>
-<br>
-<div>
-
-  [![github stats](https://github-readme-stats.vercel.app/api?username=Teddir&show_icons=true)
-  ![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddir&layout=compact)](https://github.com/Teddir) 
-
-</div>  
-
-<div>
+ 
+### Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+  
+  <div>
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=https://mail.google.com/mail/u/0/#inbox)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fismlhbb)](https://twitter.com/teddiaja_)
@@ -26,6 +14,31 @@ Hi there, welcome to my Github!<img src="https://github.com/ABSphreak/ABSphreak/
 [![Twitter URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/Teddi)
 
 </div>
+
+</div>
+
+**Languages, Frameworks, and Tools:**  
+
+<p align="left">
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">   
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">   
+<img height="25" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">   
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">   
+<img height="25" src="https://code.visualstudio.com/assets/favicon.ico">   
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">   
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">   
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">   
+<img height="25" src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
+</p>
+
+<br>
+
+**Stats**  
+
+  ![github stats](https://github-readme-stats.vercel.app/api?username=Teddir&theme=dark&show_icons=true)
+  [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddir&theme=dark&hide=html)](https://github.com/syofyanzuhad?tab=follow)_[![Syofyan Zuhad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imT&layout=compact&theme=dark)](https://github.com/syofyanzuhad?tab=follow)
+
+
 <br>
 
 <div align="center">
