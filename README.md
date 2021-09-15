@@ -36,7 +36,7 @@
 <!-- <img alt="semantic-ui" title="semantic-ui" height="35" src="https://raw.githubusercontent.com/Semantic-Org/Semantic-UI/master/examples/assets/images/logo.png">  -->
 <!-- <img alt="code-igniter" title="code-igniter" height="35" src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-4-1175201.png">  -->
 <img alt="laravel" title="laravel" height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"> 
-<!-- <img alt="laravolt" title="laravolt" height="35" src="https://avatars.githubusercontent.com/u/13552888?s=200&v=4">  -->
+<!-- <img alt="laravol" title="laravolt" height="35" src="https://avatars.githubusercontent.com/u/13552888?s=200&v=4">  -->
 <img alt="postman" title="postman" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> 
 <img alt="heroku" title="heroku" height="35" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"> 
 <!-- <img alt="cpanel" title="cpanel" height="35" src="https://www.netonboard.com/wp-content/uploads/2020/04/Cpanel-content-design-1000x500-1.png">  -->
