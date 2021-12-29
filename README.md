@@ -3,8 +3,8 @@
  <div>
  
 [![ViewCount](https://views.whatilearened.today/views/github/Teddir/ismlhbb.svg?cache=remove)](#)
-![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=https://mail.google.com/mail/u/0/#inbox)
 ![Twitter URL](https://img.shields.io/twitter/url?label=gitlab&logo=gitlab&style=social&url=https://gitlab.com/Teddir)
+![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=https://mail.google.com/mail/u/0/#inbox)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fismlhbb)](https://twitter.com/teddir_)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fismlhbb)](https://www.instagram.com/ted_dir/?hl=id)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/Teddi)
