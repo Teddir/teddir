@@ -4,11 +4,12 @@
 <div align="centre">
  
 [![GitHub followers](https://img.shields.io/github/followers/Teddir?label=Follow&style=social)](https://github.com/Teddir/?tab=follow) 
-[![Twitter Badge](http://img.shields.io/badge/-@Teddir-1ca0f1?style=social&labelColor=&logo=twitter&logoColor=blue&link=https://twitter.com/Teddir)](https://twitter.com/Teddir) 
+[![Twitter Badge](http://img.shields.io/badge/-@Teddir-1ca0f1?style=social&labelColor=&logo=twitter&logoColor=blue&link=https://twitter.com/teddir_)](https://twitter.com/teddir_) 
 [![Instagram Badge](https://img.shields.io/badge/-Teddir-blue?style=social&logo=Instagram&link=https://www.instagram.com/imteddir/)](https://www.instagram.com/imteddir/) 
 [![Facebook Badge](https://img.shields.io/badge/-Teddir-blue?style=social&logo=facebook&link=https://www.facebook.com/teddi.teddi.77715/)](https://www.facebook.com/teddi.teddi.77715/) 
 [![Telegram Badge](https://img.shields.io/badge/-Teddir-blue?style=social&logo=telegram&link=https://www.t.me/ted_dir/)](https://www.t.me/ted_dir/) 
-[![Linkedin: Teddir](https://img.shields.io/badge/-Teddir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teddi-rahman-4372b71b6/) 
+[![Linkedin: Teddi-r](https://img.shields.io/badge/-Teddir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/teddi-rahman-4372b71b6/)](https://www.linkedin.com/in/teddi-rahman-4372b71b6/) 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Teddir)
 
  </div>
